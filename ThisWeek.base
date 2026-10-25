@@ -1,0 +1,17 @@
+formulas:
+  Untitled: |
+    x+y
+views:
+  - type: kanban
+    name: View
+    groupBy:
+      property: bin
+      direction: ASC
+    groupOrder:
+      - backlog
+      - today
+      - future
+      - done
+    order:
+      - file.name
+      - desc

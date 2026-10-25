@@ -1,1 +1,0 @@
-Konsep tiga tabel

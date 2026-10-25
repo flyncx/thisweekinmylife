@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3352a6f05c66506b",
+        "id": "396d1f4ec948f73d",
         "type": "tabs",
         "children": [
           {
-            "id": "fb6d0a799a6e56ed",
+            "id": "9ab402bcb4419acf",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "ThisWeek.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "pinned": true,
+              "icon": "lucide-kanban-square",
+              "title": "ThisWeek"
             }
           }
         ]
@@ -83,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.3046875
   },
   "right": {
     "id": "8071dbffe2227f12",
@@ -99,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "This Week Board.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,14 +184,35 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "00026f0f5ae9f656",
   "lastOpenFiles": [
+    "Backlog/README.md",
+    "Backlog/shim.md",
+    "Today/shim.md",
+    "ThisWeek.base",
+    "Future/shim.md",
+    "Done/shim.md",
+    "Done/Welcome.md",
+    "Future",
+    "Today",
+    "Backlog",
+    "Done",
+    "defdsfds.md",
+    "Untitled Kanban.md",
+    "thisweek/SSRfdsgsd sgsegsf.md",
+    "thisweek/wednesday-shim.md",
+    "This Week Board.base",
+    "thisweek/thursday-shim.md",
+    "thisweek/saturday-shim   SSS.md",
+    "thisweek/sunday-shim.md",
+    "thisweek/monday-shim.md",
+    "thisweek/tuesday-shim.md",
     "pastweek",
-    "thisweek",
-    "Welcome.md",
-    "README.md"
+    "thisweek"
   ]
 }
